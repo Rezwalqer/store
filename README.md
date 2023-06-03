@@ -35,4 +35,5 @@ ___
     - Swagger
     - Lombok
     - H2 Database
+    - Mapstruct
 
